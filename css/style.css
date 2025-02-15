@@ -1037,7 +1037,7 @@ a:focus {
 }
 
 .agency_container {
-  background-image: url(images/agency.jpg);
+  background-image: url(../images/agency.jpg);
   background-size: cover;
   background-position: center;
   margin: 0 45px;
